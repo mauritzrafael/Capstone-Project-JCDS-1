@@ -1,4 +1,4 @@
-# Capstone-Project-JCDS-1
+# Spareparts-Controller-Application
 This project is a Python-based application for managing spare parts stock, which was inspired by my past experiences while working in a factory.
 1. Create: register incoming new spare parts to store.
 2. Read: display all spare parts list. Spare parts can also be searched by inputting its ID or Name (most users are more familiar with spare parts' name).
